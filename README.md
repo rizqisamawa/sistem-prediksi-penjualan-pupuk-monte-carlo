@@ -1,4 +1,4 @@
-# [ KKN ] Sistem Prediksi Penjualan Pupuk Dengan Metode Monte Carlo
+# [ SKRPS ] Sistem Prediksi Penjualan Pupuk Dengan Metode Monte Carlo
 
 #### Langkah - Langkah Menjalakan Project
 
