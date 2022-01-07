@@ -1,4 +1,4 @@
-# [ KKN ] Sistem Pendataan Covid-19
+# [ KKN ] Sistem Prediksi Penjualan Pupuk Dengan Metode Monte Carlo
 
 #### Langkah - Langkah Menjalakan Project
 
